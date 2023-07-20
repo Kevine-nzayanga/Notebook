@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Moodcheck">
+
+
+
+
+
+
+<!--    <LinearLayout-->
+<!--        xmlns:android="http://schemas.android.com/apk/res/android"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="match_parent"-->
+<!--        android:orientation="vertical"-->
+<!--        android:gravity="center">-->
+
+<!--        &lt;!&ndash; Add mood options as buttons or images &ndash;&gt;-->
+<!--        <Button-->
+<!--            android:id="@+id/happyButton"-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:text="Happy"-->
+<!--            android:onClick="showMessageForMood" /> -->
+
+<!--        &lt;!&ndash; Add more mood options as needed &ndash;&gt;-->
+<!--        &lt;!&ndash; For example:-->
+<!--        <Button-->
+<!--            android:id="@+id/sadButton"-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:text="Sad"-->
+<!--            android:onClick="showMessageForMood" />-->
+<!--        &ndash;&gt;-->
+<!--    </LinearLayout>-->
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
